@@ -42,7 +42,7 @@ Everything we ship runs on a modern, opinionated Laravel + Filament stack and is
 | Multitenancy | DB-per-tenant architecture   |
 | Deployment   | Spin Pro · Docker Swarm      |
 
-## Komma — SaaS starter-kit
+## Komma — Core
 
 Our products are built on **Komma**, an internal multi-tenant SaaS starter-kit that bundles the parts every SaaS needs out of the box:
 
