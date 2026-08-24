@@ -79,5 +79,5 @@ Built-in compliance with Spanish and Basque tax regulations — invoicing, regis
 [![Location](https://img.shields.io/badge/Made_in-Galicia,_Spain-007A33?style=flat-square)](https://github.com/Komma-SoftHouse)
 
 <div align="center">
-<sub>© Komma SoftHouse · Crafted with Laravel & Filament in Galicia 🇪🇸</sub>
+<sub>© Komma SoftHouse · Crafted with Laravel & Filament in Spain 🇪🇸</sub>
 </div>
