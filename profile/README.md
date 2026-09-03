@@ -73,12 +73,10 @@ them through Composer, so they are open by design:
 [![verifactu-engine](https://img.shields.io/packagist/v/komma-softhouse/verifactu-engine?style=flat-square&label=verifactu-engine)](https://github.com/komma-softhouse/verifactu-engine)
 [![tbai-engine](https://img.shields.io/packagist/v/komma-softhouse/tbai-engine?style=flat-square&label=tbai-engine)](https://github.com/komma-softhouse/tbai-engine)
 [![facturae-engine](https://img.shields.io/packagist/v/komma-softhouse/facturae-engine?style=flat-square&label=facturae-engine)](https://github.com/komma-softhouse/facturae-engine)
-[![sii-engine](https://img.shields.io/packagist/v/komma-softhouse/sii-engine?style=flat-square&label=sii-engine)](https://github.com/komma-softhouse/sii-engine)
 
 - **[verifactu-engine](https://github.com/komma-softhouse/verifactu-engine)** — AEAT VERI\*FACTU records, hash chain and SOAP client.
 - **[tbai-engine](https://github.com/komma-softhouse/tbai-engine)** — TicketBAI for the three Basque territories, Zuzendu, and Bizkaia's LROE (Batuz), issued and received chapters.
 - **[facturae-engine](https://github.com/komma-softhouse/facturae-engine)** — Facturae 3.2.2, XAdES, FACe and FACeB2B.
-- **[sii-engine](https://github.com/komma-softhouse/sii-engine)** — the Suministro Inmediato de Información: the four VAT record books over SOAP, for the AEAT and the foral and Canary Islands services.
 
 ## Standards we implement
 
@@ -167,10 +165,7 @@ por Composer, así que son abiertos por diseño y puedes usarlos por separado:
 **[tbai-engine](https://github.com/komma-softhouse/tbai-engine)** (TicketBAI
 para los tres territorios, Zuzendu y el LROE de Bizkaia con ambos capítulos),
 **[facturae-engine](https://github.com/komma-softhouse/facturae-engine)**
-(Facturae 3.2.2, XAdES, FACe y FACeB2B) y
-**[sii-engine](https://github.com/komma-softhouse/sii-engine)** (el
-Suministro Inmediato de Información: los cuatro libros registro de IVA por
-SOAP, para la AEAT y los servicios forales y canario).
+(Facturae 3.2.2, XAdES, FACe y FACeB2B)
 
 <div align="center">
 <sub>© Komma SoftHouse · Hecho con Laravel y Filament en Galicia 🇪🇸</sub>
