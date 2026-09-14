@@ -168,5 +168,5 @@ para los tres territorios, Zuzendu y el LROE de Bizkaia con ambos capítulos),
 (Facturae 3.2.2, XAdES, FACe y FACeB2B)
 
 <div align="center">
-<sub>© Komma SoftHouse · Hecho con Laravel y Filament en Galicia 🇪🇸</sub>
+<sub>© Komma SoftHouse · Hecho con Laravel y Filament en Europe 🇪🇸</sub>
 </div>
